@@ -13,8 +13,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/dataset-api.git
-   cd dataset-api
+   git clone https://github.com/MithileshKumar-IITRPR/jsonFilter.git
+   cd jsonFilter
    ```
 
 2. **Run PostgreSQL using Docker:**
